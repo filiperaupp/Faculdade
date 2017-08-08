@@ -1,0 +1,8 @@
+C:\Users\filip\Desktop\FaculdadeGit\LPC\Calculadora\Calculadora\bin\Debug\netcoreapp1.1\Calculadora.deps.json
+C:\Users\filip\Desktop\FaculdadeGit\LPC\Calculadora\Calculadora\bin\Debug\netcoreapp1.1\Calculadora.runtimeconfig.json
+C:\Users\filip\Desktop\FaculdadeGit\LPC\Calculadora\Calculadora\bin\Debug\netcoreapp1.1\Calculadora.runtimeconfig.dev.json
+C:\Users\filip\Desktop\FaculdadeGit\LPC\Calculadora\Calculadora\bin\Debug\netcoreapp1.1\Calculadora.dll
+C:\Users\filip\Desktop\FaculdadeGit\LPC\Calculadora\Calculadora\bin\Debug\netcoreapp1.1\Calculadora.pdb
+C:\Users\filip\Desktop\FaculdadeGit\LPC\Calculadora\Calculadora\obj\Debug\netcoreapp1.1\Calculadora.AssemblyInfo.cs
+C:\Users\filip\Desktop\FaculdadeGit\LPC\Calculadora\Calculadora\obj\Debug\netcoreapp1.1\Calculadora.dll
+C:\Users\filip\Desktop\FaculdadeGit\LPC\Calculadora\Calculadora\obj\Debug\netcoreapp1.1\Calculadora.pdb
