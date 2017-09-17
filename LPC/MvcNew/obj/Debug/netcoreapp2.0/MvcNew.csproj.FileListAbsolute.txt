@@ -1,0 +1,10 @@
+C:\Users\filip\Desktop\FaculdadeGit\LPC\MvcNew\bin\Debug\netcoreapp2.0\MvcNew.deps.json
+C:\Users\filip\Desktop\FaculdadeGit\LPC\MvcNew\bin\Debug\netcoreapp2.0\MvcNew.runtimeconfig.json
+C:\Users\filip\Desktop\FaculdadeGit\LPC\MvcNew\bin\Debug\netcoreapp2.0\MvcNew.runtimeconfig.dev.json
+C:\Users\filip\Desktop\FaculdadeGit\LPC\MvcNew\bin\Debug\netcoreapp2.0\MvcNew.dll
+C:\Users\filip\Desktop\FaculdadeGit\LPC\MvcNew\bin\Debug\netcoreapp2.0\MvcNew.pdb
+C:\Users\filip\Desktop\FaculdadeGit\LPC\MvcNew\obj\Debug\netcoreapp2.0\MvcNew.csproj.CoreCompileInputs.cache
+C:\Users\filip\Desktop\FaculdadeGit\LPC\MvcNew\obj\Debug\netcoreapp2.0\MvcNew.AssemblyInfoInputs.cache
+C:\Users\filip\Desktop\FaculdadeGit\LPC\MvcNew\obj\Debug\netcoreapp2.0\MvcNew.AssemblyInfo.cs
+C:\Users\filip\Desktop\FaculdadeGit\LPC\MvcNew\obj\Debug\netcoreapp2.0\MvcNew.dll
+C:\Users\filip\Desktop\FaculdadeGit\LPC\MvcNew\obj\Debug\netcoreapp2.0\MvcNew.pdb
